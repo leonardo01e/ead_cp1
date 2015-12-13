@@ -1,4 +1,4 @@
-## Script to generate plot 2 of course project 1
+## Script to generate plot 3 of course project 1
 ## Exploratory Data Analysis 
 ##
 ##Importing the dataset
